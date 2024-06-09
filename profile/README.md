@@ -26,7 +26,7 @@ At TeleBot Labs, we specialize in developing tailored Telegram bot experiences t
 
 Partner with us to unlock the full potential of Telegram bot development for your business. Reach out to us today!
 
-- **Email**: telebotlabs@telebotlabs.com
+- **Email**: telebotlabs@hiruna.dev
 
 ---
 
